@@ -4,7 +4,7 @@
 
 ### 🎓 Software Engineering Student | Backend & Mobile Developer | Computer Vision Enthusiast
 
-**AUCA (African University of Science and Technology) • 3rd Year Student**
+**AUCA (Adventist University of Central Africa) • 3rd Year Student**
 
 ![GitHub followers](https://img.shields.io/github/followers/Danieljospin1?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=Danieljospin1&color=blue)
